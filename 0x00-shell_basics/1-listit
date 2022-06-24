@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls"
+echo "ls which is a command used to list files and subdirocties"
